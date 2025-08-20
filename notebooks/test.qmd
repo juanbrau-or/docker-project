@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+format: html
+---
+
+## Un encabezado
+
+Este es un documento de Quarto.
+
+```{python}
+import pandas as pd
+```
